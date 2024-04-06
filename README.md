@@ -1,1 +1,1 @@
-<img src = "https://www.slazzer.com/downloads/77bb9e9c-f3da-11ee-8191-42010a800009/png-clipart-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text_prev_ui.png">
+<img src = "https://idp.iitjammu.ac.in/assets/images/logo.png" >
